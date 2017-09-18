@@ -1,0 +1,188 @@
+{
+  "Name": "Genre",
+  "children": [
+    {
+      "Name": "Arts & Photography",
+      "children": [
+		{
+			"Name": "How-to Crafts",
+			"revenue": 2711
+		},
+		{
+			"Name": "Coffee- Table",
+			"children": {
+				"Name": "Photography",
+				"revenue": 2309
+			}
+		}
+	  ]
+      }
+    },
+    {
+      "Name": "Children's Books",
+      "children": [
+        {
+          "Name": "Baby Books"
+        },
+        {
+          "Name": "Age 3-5",
+          "children": [
+            {
+              "Name": "1st Readers",
+              "revenue": 24514
+            },
+            {
+              "Name": "ABCs",
+              "revenue": 17771
+            },
+            {
+              "Name": "Tolstoy for Tots",
+              "revenue": 13295
+            }
+          ]
+        },
+        {
+          "Name": "Age 6-8",
+          "revenue": 14046
+        },
+        {
+          "Name": "Pre-Teen & Teen",
+          "revenue": 13295
+        }
+      ]
+    },
+    {
+      "Name": "Computers & Internet",
+      "children": {
+        "Name": "Troubleshooting",
+        "revenue": 4527
+      }
+    },
+    {
+      "Name": "Mystery",
+      "children": [
+        {
+          "Name": "Crime",
+          "children": [
+            {
+              "Name": "Fiction",
+              "revenue": 11186
+            },
+            {
+              "Name": "True Crime",
+              "revenue": 8790
+            }
+          ]
+        },
+        {
+          "Name": "Spy",
+          "revenue": 6516,
+          "children": {
+            "Name": "True Spy",
+            "revenue": 3809
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Nonfiction",
+      "children": [
+        {
+          "Name": "Health",
+          "children": [
+            {
+              "Name": "Diet",
+              "revenue": 3293
+            },
+            {
+              "Name": "Fitness",
+              "revenue": 6891
+            }
+          ]
+        },
+        {
+          "Name": "History",
+          "revenue": 1131
+        }
+      ]
+    },
+    {
+      "Name": "Magazine",
+      "children": [
+        {
+          "Name": "Fashion",
+          "children": [
+            {
+              "Name": "Women's",
+              "revenue": 7315
+            },
+            {
+              "Name": "Men's",
+              "revenue": 2222
+            }
+          ]
+        },
+        {
+          "Name": "Home",
+          "revenue": 2612
+        },
+        {
+          "Name": "Other",
+          "revenue": 3140
+        },
+        {
+          "Name": "Sports",
+          "children": [
+            {
+              "Name": "Sport's Illustrated",
+              "revenue": 8009
+            },
+            {
+              "Name": "MMA",
+              "revenue": 4257
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Romance",
+      "children": [
+        {
+          "Name": "Break Up",
+          "children": [
+            {
+              "Name": "Teen",
+              "revenue": 6205
+            },
+            {
+              "Name": "Young Adult",
+              "revenue": 25193
+            },
+            {
+              "Name": "Audiobooks",
+              "revenue": 3045
+            }
+          ]
+        },
+        {
+          "Name": "Make Up",
+          "revenue": 15050
+        }
+      ]
+    },
+    {
+      "Name": "Science Fiction & Fantasy",
+      "children": [
+        {
+          "Name": "Apocalyptic",
+          "revenue": 10200
+        },
+        {
+          "Name": "Comics",
+          "revenue": 3456
+        }
+      ]
+    }
+  ]
+}
